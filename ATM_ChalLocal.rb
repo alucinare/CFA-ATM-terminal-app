@@ -1,5 +1,3 @@
-#make notes tomorrow morning in class.
-
 @count = 10 #"@" is an instance variable while "$" is a global
 
 # called a method in Ruby, in C it's a function except we don't have
