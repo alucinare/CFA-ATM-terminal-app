@@ -16,9 +16,6 @@ def deposit (give)
   return give
 end
 
-def balance #maybe I can make a method to update the balance??
-
-
 def atm
   puts "Do you want to withdraw or deposit 20? W or D?"
   answer = gets.chomp
